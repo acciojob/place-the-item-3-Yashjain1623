@@ -2,6 +2,6 @@
 /* Your CSS Code here. */
 .holder{
 	display:flex;
-	justify-items:space-evenly;
+	justify-items:normal;
 	flex-wrap:wrap;
 }
